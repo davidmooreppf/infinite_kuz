@@ -8,6 +8,6 @@ opponents.
 
 Everything after April 12, 2026 is clearly labeled as hypothetical.
 
-Live site: https://infinite-kuz.vercel.app/
+**Live site:** https://infinite-kuz.vercel.app/
 
 Built by [David Russell Moore](https://www.davidrussellmoore.net/).
